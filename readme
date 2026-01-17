@@ -1,0 +1,25 @@
+# ChemLabSimulator
+
+Interactive chemistry lab simulator for conductance measurements and electrochemistry experiments.
+
+## Features
+- Conductance measurement simulations
+- Electrochemical cell (Daniell Cell) experiments
+- Nernst equation verification
+- Interactive plots and data analysis
+- Export data to CSV
+
+## Tech Stack
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+- Plotly
+- NumPy
+
+## Installation
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the app: `streamlit run home.py`
+
+
